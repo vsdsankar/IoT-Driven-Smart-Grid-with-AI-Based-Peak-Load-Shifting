@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+streamlit-option-menu
+matplotlib
+numpy
+firebase-admin
+pandas
+scikit-learn
+python-dotenv

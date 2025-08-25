@@ -1,0 +1,17 @@
+# Environment variables with sensitive data
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Firebase service account keys
+*.json
+
+# CSV data files
+*.csv
